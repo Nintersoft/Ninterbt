@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/03/18 13:59:12.000.002,=C:\Users\Mauro\Documents\Ninterbt\C++\Android.JNI.Toast.pas</Transaction>
+    <Transaction>2015/03/18 13:59:23.000.419,=C:\Users\Mauro\Documents\Ninterbt\C++\Androidapi.JNI.BluetoothAdapter.pas</Transaction>
+    <Transaction>2015/03/18 13:59:35.000.824,C:\Users\Mauro\Documents\Ninterbt\C++\TabbedwithNavigation.cbproj=C:\Users\Mauro\Documents\Ninterbt\C++\Ninterbt.cbproj</Transaction>
+    <Transaction>2015/04/04 23:34:51.000.269,C:\Users\Família Araújo\Documents\Ninterbt\C++\Android.JNI.Toast.pas=</Transaction>
+    <Transaction>2015/04/04 23:35:35.000.345,=C:\Users\Família Araújo\Documents\Ninterbt\C++\Androidapi.JNI.Toast.pas</Transaction>
+    <Transaction>2015/04/05 00:11:24.000.915,=C:\Users\Família Araújo\Documents\Ninterbt\C++\Unit1.cpp</Transaction>
+    <Transaction>2015/04/05 00:11:39.000.304,C:\Users\Família Araújo\Documents\Ninterbt\C++\Principal.cpp=C:\Users\Família Araújo\Documents\Ninterbt\C++\TabbedFormwithNavigation.cpp</Transaction>
+    <Transaction>2015/04/05 00:11:39.000.304,C:\Users\Família Araújo\Documents\Ninterbt\C++\Principal.fmx=C:\Users\Família Araújo\Documents\Ninterbt\C++\TabbedFormwithNavigation.fmx</Transaction>
+    <Transaction>2015/04/05 00:11:39.000.304,C:\Users\Família Araújo\Documents\Ninterbt\C++\Principal.h=C:\Users\Família Araújo\Documents\Ninterbt\C++\TabbedFormwithNavigation.h</Transaction>
+    <Transaction>2015/04/05 00:11:54.000.876,C:\Users\Família Araújo\Documents\Ninterbt\C++\Carregando.fmx=C:\Users\Família Araújo\Documents\Ninterbt\C++\Unit1.fmx</Transaction>
+    <Transaction>2015/04/05 00:11:54.000.876,C:\Users\Família Araújo\Documents\Ninterbt\C++\Carregando.h=C:\Users\Família Araújo\Documents\Ninterbt\C++\Unit1.h</Transaction>
+    <Transaction>2015/04/05 00:11:54.000.876,C:\Users\Família Araújo\Documents\Ninterbt\C++\Carregando.cpp=C:\Users\Família Araújo\Documents\Ninterbt\C++\Unit1.cpp</Transaction>
+    <Transaction>2015/04/05 00:12:17.000.238,C:\Users\Família Araújo\Documents\Ninterbt\C++\PrincipalPCH.h=C:\Users\Família Araújo\Documents\Ninterbt\C++\TabbedwithNavigationPCH.h</Transaction>
+    <Transaction>2015/04/05 15:23:53.000.117,=C:\Users\Família Araújo\Documents\Ninterbt\Delphi_V2\Unit1.pas</Transaction>
+    <Transaction>2015/04/05 15:25:03.000.725,C:\Users\Família Araújo\Documents\Ninterbt\Delphi_V2\Unit1.pas=</Transaction>
+    <Transaction>2015/04/05 15:25:34.000.808,=C:\Users\Família Araújo\Documents\Ninterbt\C++\Unit1.pas</Transaction>
+    <Transaction>2015/04/06 12:19:53.000.226,=C:\Users\Família Araújo\Documents\Ninterbt\C++\OpenViewUrl.pas</Transaction>
+    <Transaction>2015/04/06 12:19:53.000.238,=C:\Users\Família Araújo\Documents\Ninterbt\C++\fOpen.pas</Transaction>
+    <Transaction>2015/04/06 12:26:45.000.108,C:\Users\Família Araújo\Documents\Ninterbt\C++\fOpen.pas=</Transaction>
+    <Transaction>2015/04/07 21:04:02.000.358,=C:\Users\Família Araújo\Documents\Ninterbt\C++\FMX.Helpers.Android.pas</Transaction>
+    <Transaction>2015/04/07 21:27:02.000.644,C:\Users\Família Araújo\Documents\Ninterbt\C++\FMX.Helpers.Android.pas=</Transaction>
+    <Transaction>2015/04/07 22:25:59.000.238,=C:\Users\Família Araújo\Documents\Ninterbt\C++\FMX.Helpers.Android.pas</Transaction>
+    <Transaction>2015/04/07 23:29:51.000.676,C:\Users\Família Araújo\Documents\Ninterbt\C++\FMX.Helpers.Android.pas=</Transaction>
+    <Transaction>2015/04/07 23:37:45.000.210,=C:\Users\Família Araújo\Documents\Ninterbt\C++\FMX.Helpers.Android.pas</Transaction>
+    <Transaction>2015/04/07 23:37:59.000.577,=C:\Users\Família Araújo\Documents\Ninterbt\C++\FMX.Helpers.Android.hpp</Transaction>
+  </Transactions>  <BT_BuildType>AppStore</BT_BuildType>
+</BorlandProject>
