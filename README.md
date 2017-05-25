@@ -21,8 +21,6 @@ Embora a versão atual seja baseada nesta versão, o desenvolvedor não precisa 
 Atenciosamente,
 Mauro Mascarenhas - Nintersoft.
 
-=============
-
 ## EN
 # Ninterbt
 Ninterbt is an application for Android which performs secure serial communication with Bluetooth devices through the RS-232 transmission protocol. It has already been part of the home automation project, but it is currently being developed as an independent project by our team.
